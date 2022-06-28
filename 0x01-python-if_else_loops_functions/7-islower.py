@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Author - Anointed-Faith a.
+# Author - Anointed-Faith A.
 
 def islower(c):
     """Function checks for lowercase characters."""
