@@ -1,5 +1,5 @@
 -- List all records of the table second_table.
-SELECT(*) name
+SELECT score, name
 FROM second_table
-GROUP BY score, name
+WHERE name IS NOT NULL
 ORDER BY name DESC;
